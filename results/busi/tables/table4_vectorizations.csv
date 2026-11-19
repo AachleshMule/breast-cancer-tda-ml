@@ -1,0 +1,5 @@
+Vectorization,Test accuracy (%),CV accuracy mean (%),CV accuracy std (%)
+Betti curves,86.92,82.53,2.89
+Persistence landscapes,83.08,81.76,3.47
+Silhouettes,81.54,79.75,2.5
+Persistence images,86.92,82.99,2.99

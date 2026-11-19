@@ -1,0 +1,10 @@
+# Use Python 3.10, 3.11 or 3.12 (giotto-tda does not support Python 3.13/3.14 yet)
+numpy<2
+scipy
+pandas
+pillow
+matplotlib
+scikit-learn>=1.3
+xgboost>=2.0
+giotto-tda==0.6.2
+pytest

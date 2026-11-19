@@ -1,0 +1,4 @@
+Features used,Test accuracy (%),CV accuracy mean (%),CV accuracy std (%)
+H0 only,83.08,80.99,2.93
+H1 only,76.92,78.52,1.89
+H0 + H1,86.92,82.99,2.99

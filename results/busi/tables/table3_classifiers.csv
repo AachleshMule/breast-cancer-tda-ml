@@ -1,0 +1,5 @@
+Classifier,Test accuracy (%),Train CV accuracy (%)
+KNN,67.69,74.65
+Random Forest,84.62,82.19
+SVM,79.23,80.07
+XGBoost,86.92,82.39

@@ -1,0 +1,39 @@
+{
+  "environment": {
+    "python": "3.12.16",
+    "platform": "macOS-26.6.2-arm64-arm-64bit",
+    "numpy": "1.26.4",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.3.2",
+    "xgboost": "3.4.1",
+    "giotto-tda": "0.6.2",
+    "seed": 42,
+    "image_size": 256,
+    "time": "2026-11-18 14:06:42"
+  },
+  "args": {
+    "manifest": "manifests/busi.csv",
+    "root": "/Users/aachlesh_mule/Downloads/Dataset_BUSI_with_GT",
+    "name": "busi",
+    "out": "results",
+    "size": 256,
+    "fast": false,
+    "max_images": null,
+    "n_jobs": -1,
+    "min_persistence": 0.0
+  },
+  "n_images": 647,
+  "n_benign": 437,
+  "n_malignant": 210,
+  "patient_grouped": true,
+  "diagram_shape": [
+    647,
+    4509,
+    3
+  ],
+  "seconds_persistent_homology": 11.2,
+  "n_train": 517,
+  "n_test": 130,
+  "feature_dim": 800,
+  "seconds_total": 199.7
+}
